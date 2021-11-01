@@ -1,0 +1,2 @@
+# beautysalon-frontend
+Frontend Project
